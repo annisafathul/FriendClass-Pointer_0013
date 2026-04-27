@@ -35,5 +35,14 @@ public:
 
 };
 
+class BelahKetupat
+{
+    private:
+    private:
+        double d1, d2; 
+        double sisi;
+
+
+    public:
 
     
